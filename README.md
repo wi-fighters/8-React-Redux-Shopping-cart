@@ -18,8 +18,8 @@ Make sure to use components _Examples of components: ProductList, ProdListItem, 
 -   Use Redux
 
 -   Images for reference:
-    ![mockUp1](mockUp1.png)
-    ![mockUp2](mockUp2.png)
+    ![MockUp1](MockUp1.png)
+    ![MockUp2](MockUp2.png)
 
 -   Use this list of items, saved them as a JSON file:
 
