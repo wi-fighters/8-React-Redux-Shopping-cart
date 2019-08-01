@@ -11,7 +11,7 @@ The total amount should be updated every time you add or remove an item.
 
 Once the user clicks the checkout button the items will be removed from the Shopping Cart, the total amount will go back to 0 and the main Product List of items will show the current amount of items available after the last purchase.
 
-Make sure to use components _Examples of components: ProductList, ProdListItem, ShoppingCart, ShopCartItem._
+Make sure to use components _Create the following components: ProductList, ProdListItem, ShoppingCart, ShopCartItem._
 
 -   Use Create React App
 
